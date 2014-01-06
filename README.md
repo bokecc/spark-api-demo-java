@@ -12,7 +12,7 @@ Spark API Java示例说明
 
 2.1 获取API Key
 
-Spark API的每一个通信接口都需要采用API Key来加密，因此必须先到<a href="http://www.bokecc.com">CC视频</a>后台获取后，才能正常使用API。
+Spark API的每一个通信接口都需要采用API Key来加密，因此必须先到<a href="http://www.bokecc.com" target="_blank">CC视频</a>后台获取后，才能正常使用API。
 
 2.2 配置
 
