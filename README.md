@@ -16,7 +16,7 @@ Spark API的每一个通信接口都需要采用API Key来加密，因此必须�
 
 2.2 配置
 
-demo相关的配置信息在src\com\dreamwindows\config\Config.java中，使用前请将其填写完整。
+demo相关的配置信息在src/com/dreamwindows/config/Config.java中，使用前请将其填写完整。
 
 2.3 启动
 
